@@ -1,4 +1,21 @@
-Due to the space limitaion, we show the detailed training and prediction time of the TCP techniques in this github repo.
+Due to the space limitaion, we show the the ratio of commits in each project for which training and prediction is possible, and detailed training and prediction time of the TCP techniques in this github repo.
+
+The table below shows the ratio of commits in each project for which training and prediction is possible. 
+
+|           | bcel   |jedis   |jsprit   |nfe      |spring-data-redis |csv |dbcp  |text  |java-faker  |jsoup  |maxwell     |
+| :-------- | :----- | :----- | :------ | :------ | :------ | :------ | :----- | :------ | :------ | :------ | :------ |
+| MART      | 1.0000 | 1.0000 | 1.0000 | 1.0000 | 0.9837 | 1.0000 | 0.9641 | 1.0000 | 1.0000 | 0.9847 | 1.0000|
+| RankNet   | 1.0000 | 1.0000 | 1.0000 | 1.0000 | 0.9837 | 1.0000 | 0.9641 | 1.0000 | 1.0000 | 0.9847 | 1.0000|
+| RankBoost | 1.0000 | 1.0000 | 1.0000 | 1.0000 | 0.9837 | 1.0000 | 0.9641 | 1.0000 | 1.0000 | 0.9847 | 1.0000|
+| CA        | 1.0000 | 1.0000 | 1.0000 | 1.0000 | 0.9837 | 1.0000 | 0.9641 | 1.0000 | 1.0000 | 0.9847 | 1.0000|
+| L-MART    | 1.0000 | 1.0000 | 1.0000 | 1.0000 | 0.9837 | 1.0000 | 0.9641 | 1.0000 | 1.0000 | 0.9847 | 1.0000|
+| DeepOrder | 1.0000 | 1.0000 | 1.0000 | 1.0000 | 0.9837 | 1.0000 | 0.9641 | 1.0000 | 1.0000 | 0.9847 | 1.0000|
+| RL        | 1.0000 | 1.0000 | 1.0000 | 1.0000 | 0.9837 | 1.0000 | 0.9641 | 1.0000 | 1.0000 | 0.9771 | 1.0000|
+| COLEMAN   | 1.0000 | 1.0000 | 1.0000 | 1.0000 | 0.9837 | 1.0000 | 0.9641 | 1.0000 | 1.0000 | 0.9847 | 1.0000|
+| PPO2-PO   | 0.8298 | 0.9019 | 0.8750 | 0.8049 | 0.6098 | 0.7969 | 0.7186 | 0.7931 | 0.7647 | 0.8855 | 0.8730|
+| ACER-PA   | 0.8298 | 0.9074 | 0.8750 | 0.8354 | 0.6098 | 0.7813 | 0.7066 | 0.7759 | 0.7899 | 0.8893 | 0.8730|
+| PPO1-LI   | 0.7234 | 0.8583 | 0.7813 | 0.6037 | 0.5366 | 0.8125 | 0.7186 | 0.7931 | 0.6050 | 0.8931 | 0.8651|
+
 The table below shows the average training time (in seconds) in each cycle for all subjects. 
 
 |           | bcel   |jedis   |jsprit   |nfe      |spring-data-redis |csv |dbcp  |text  |java-faker  |jsoup  |maxwell     |
