@@ -1,4 +1,4 @@
-Due to the space limitaion, we show the the ratio of commits in each project for which training and prediction is possible, and detailed training and prediction time of the TCP techniques in this github repo.
+Due to the space limitaion, we show the the ratio of commits in each project for which training and prediction is possible(**added for reviewer's special request**), and detailed training and prediction time of the TCP techniques in this github repo.
 
 The table below shows the ratio of commits in each project for which training and prediction is possible. 
 
