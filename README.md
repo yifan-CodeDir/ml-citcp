@@ -59,3 +59,15 @@ We adopt code from previous work
 
 [A Multi-Armed Bandit Approach for Test Case Prioritization in Continuous Integration Environments](https://ieeexplore.ieee.org/abstract/document/9086053) Github repository: https://github.com/jacksonpradolima/coleman4hcs
 
+#### Citing
+
+```
+@inproceedings{zhao2023revisiting,
+  title={Revisiting Machine Learning based Test Case Prioritization for Continuous Integration},
+  author={Zhao, Yifan and Hao, Dan and Zhang, Lu},
+  booktitle={2023 IEEE International Conference on Software Maintenance and Evolution (ICSME)},
+  pages={232--244},
+  year={2023},
+  organization={IEEE}
+}
+```
