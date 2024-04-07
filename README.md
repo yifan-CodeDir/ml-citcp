@@ -1,5 +1,5 @@
 # Revisiting Machine Learning based Test Case Prioritization for Continuous Integration
-This repository contains a replication package for a research paper submitted to the [ICSME 2023](https://conf.researchr.org/home/icsme-2023). We provide our code, data and result for the ease of replicating our experiments.
+This repository contains a replication package for a research paper published at [ICSME 2023](https://conf.researchr.org/home/icsme-2023). We provide our code, data and result for the ease of replicating our experiments.
 
 #### Code
 
